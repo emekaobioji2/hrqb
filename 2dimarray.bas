@@ -1,0 +1,7 @@
+DIM DEPOSIT(2, 10)
+FOR I = 1 TO 2 STEP 1
+    FOR J = 1 TO 10 STEP 1
+        PRINT DEPOSIT(I, J)
+    NEXT
+NEXT
+
